@@ -22,6 +22,9 @@ class MyDataset(Dataset):
         image = Image.open(origin_img_loc)
         label = Image.open(truth_img_loc)
 
+        image = image.resize((256, 256),Image.BICUBIC)
+        label = label.resize((256, 256),Image.BICUBIC)
+
         image = T.ToTensor()(image)
         label = T.ToTensor()(label)
 

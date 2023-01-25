@@ -1,55 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baeffba2-158e-4f32-9a47-ffda04ba060d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ONE_OFF/segmentation/predicter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ONE_OFF/segmentation/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../discriminator/.idea/test_discriminator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../image_analysis/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_deeplabv3_workspace/.idea/deeplabv3-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_deeplabv3_workspace/eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_deeplabv3_workspace/utils/dice_loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_deeplabv3_workspace/utils/eval_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_deeplabv3_workspace/utils/load_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_deeplabv3_workspace/utils/log_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/kale_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/kale_order2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/network/architecture/bat_arch/ASPP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/network/architecture/bat_arch/BAT_Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/network/architecture/bat_arch/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/network/architecture/bat_arch/resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/network/architecture/bat_arch/transformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/network/bat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/pipe_cw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/pipe_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/utils/predict_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_pipeline/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_truth/.idea/segmentation_ground_truth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_truth/outline_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segmentation_truth/outline_gen_server.py" afterDir="false" />
+    <list default="true" id="baeffba2-158e-4f32-9a47-ffda04ba060d" name="변경" comment="변경">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ssee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ssee.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/custom_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/custom_dataset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,15 +32,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "C:/Users/HP/Documents/py/DNNet_Fork"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sunghun/Desktop/seg/Segmentation&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.sort">
+    <configuration name="sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ssee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ssee" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort" />
         <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
@@ -106,6 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663551612329</updated>
       <workItem from="1663551613600" duration="990000" />
+      <workItem from="1674644405336" duration="106000" />
+      <workItem from="1674645612645" duration="2854000" />
     </task>
     <servers />
   </component>
@@ -125,5 +122,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ssee$train.coverage" NAME="train 커버리지 결과" MODIFIED="1663552588740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Segmentation$sort.coverage" NAME="sort Coverage Results" MODIFIED="1674648272163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
